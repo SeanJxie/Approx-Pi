@@ -1,2 +1,2 @@
 # Approx-Pi
-It's written in Pi-thon. ::pie::
+It's written in Pi-thon.
