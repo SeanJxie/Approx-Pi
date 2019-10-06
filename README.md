@@ -1,2 +1,2 @@
 # Approx-Pi
-Who doesn't love Pi?
+It's written in Pi-thon.
