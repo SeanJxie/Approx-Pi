@@ -1,2 +1,2 @@
 # Approx-Pi
-Approximations of Pi.
+Who doesn't love Pi?
