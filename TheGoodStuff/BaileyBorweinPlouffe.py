@@ -1,5 +1,5 @@
 # Approximating Pi using the  Bailey–Borwein–Plouffe formula.
-# This is an extremely quick converging series. The precision goes beyond Python's float number.
+# This is an extremely quick converging series. The precision goes beyond Python's float number?
 
 iterations = 1000000
 approximation = 0
