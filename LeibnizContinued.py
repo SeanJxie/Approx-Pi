@@ -1,7 +1,7 @@
 # Approximating pi with the Leibniz formula for pi.
 
 iterations = 1000000
-approximation = 1
+approximation = 0
 sign = 1
 
 for i in range(iterations):
